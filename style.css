@@ -1,0 +1,33 @@
+body {
+	 background-color: #0049B0;
+}
+
+.wrapper {
+	 width:  1000px;
+	 margin:  auto;
+	
+}
+
+
+
+#description-section {
+	 width:  600px;
+ 
+	 margin:  auto;
+	 color: white;
+     /*background-color: yellow; */
+}
+
+
+#graph-canvas {
+
+	 margin-left: auto;
+	 margin-right: auto;
+
+	 display: block;
+
+     background-color: white;
+	 border:1px solid #c3c3c3;
+     
+}
+
